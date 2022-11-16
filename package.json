@@ -1,0 +1,19 @@
+{
+  "name": "nayzar-test",
+  "version": "1.0.0",
+  "description": "Simulation of a planet becoming rouge after being slingshotted by a black hole",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Transit-Lumber/nayzar-test.git"
+  },
+  "author": "Transit-Lumber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Transit-Lumber/nayzar-test/issues"
+  },
+  "homepage": "https://github.com/Transit-Lumber/nayzar-test#readme"
+}
